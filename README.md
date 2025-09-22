@@ -11,7 +11,7 @@ Final workplace project repository
 
 ## Project Overview
 
-This project develops an insights-driven client segmentation model for a banking institution. Traditional segmentation based on age and income is enhanced by incorporating behavioral and engagement metrics such as account usage and digital activity. The goal is to support predictive and prescriptive analytics for hyper-personalization and strategic client growth.
+This project develops an insights-driven client segmentation model for a banking institution. Traditional segmentation based on age and income is enhanced by incorporating behavioral and spatial metrics. The goal is to support predictive and prescriptive analytics for hyper-personalization and strategic client growth.
 
 ---
 
